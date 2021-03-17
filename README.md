@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-fa7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 <p align="center">
