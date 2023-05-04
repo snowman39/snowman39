@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=85bcdc&height=150&section=header&text=KimMingi&fontSize=60&fontColor=363636)
+![header](https://capsule-render.vercel.app/api?type=slice&color=85bcdc&height=150&section=header&text=MingiKim&fontSize=60&fontColor=363636)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white"/>
